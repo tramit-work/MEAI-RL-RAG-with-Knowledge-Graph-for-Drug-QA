@@ -1,0 +1,3955 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepasel"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Biphenyl dimethyl dicarboxylate"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepasel"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606846976",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Biphenyl dimethyl dicarboxylate"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepasel"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver-related diseases"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepasel"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081858",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver-related diseases"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepasel"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alt"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepasel"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081859",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alt"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepasel"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pathological changes in the liver such as focal and diffuse hepatic necrosis"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepasel"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081860",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:0",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pathological changes in the liver such as focal and diffuse hepatic necrosis"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antifungal medication"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 1152921504606846981,
+            "start": 5,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606846981",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antifungal medication"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azole group"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 5,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081863",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azole group"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Serious fungal infections"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:8"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081864,
+            "start": 5,
+            "end": 8,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081864",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:8"
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Serious fungal infections"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:8"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Any fungal infection"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081865,
+            "start": 5,
+            "end": 9,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081865",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Any fungal infection"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe liver damage"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081866,
+            "start": 5,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081866",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe liver damage"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adrenal gland issues"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 5,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081867",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adrenal gland issues"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dangerous drug interactions"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 5,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081868",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dangerous drug interactions"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vitamin d levels"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081869,
+            "start": 5,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081869",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vitamin d levels"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antacid medications"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:14"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081870,
+            "start": 5,
+            "end": 14,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081870",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:14"
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antacid medications"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:14"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gastric acid inhibitors"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081871,
+            "start": 5,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081871",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gastric acid inhibitors"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "2 hours of taking"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 5,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081872",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "2 hours of taking"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alcohol"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081873,
+            "start": 5,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081873",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alcohol"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "200 mg daily"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081874,
+            "start": 5,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081874",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "200 mg daily"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "400 mg per day"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 5,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081875",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:5",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "400 mg per day"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antifungal medication"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antifungal medication"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 6,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081876",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antifungal medication"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Terbinafine"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antifungal medication"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081877,
+            "start": 6,
+            "end": 21,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081877",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Terbinafine"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Candida infections"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          },
+          "relationship": {
+            "identity": 6917529027641081878,
+            "start": 20,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081878",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Candida infections"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cryptococcal meningitis"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 20,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081879",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cryptococcal meningitis"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fungal infections"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:24"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          },
+          "relationship": {
+            "identity": 6917529027641081880,
+            "start": 20,
+            "end": 24,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081880",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:24"
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fungal infections"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:24"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluconazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Based on body weight"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluconazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20"
+          },
+          "relationship": {
+            "identity": 6917529027641081881,
+            "start": 20,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081881",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:20",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Based on body weight"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Terbinafine"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting squalene epoxidase"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:26"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Terbinafine"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081882,
+            "start": 21,
+            "end": 26,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081882",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:26"
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting squalene epoxidase"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:26"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Terbinafine"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin fungal infections"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:27"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Terbinafine"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081883,
+            "start": 21,
+            "end": 27,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081883",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:27"
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin fungal infections"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:27"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Terbinafine"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Terbinafine"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081884,
+            "start": 21,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081884",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Terbinafine"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diarrhea"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Terbinafine"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 21,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081885",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:21",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diarrhea"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Albendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 28,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081886",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:28",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Albendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Albendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Broad-spectrum anthelmintic drug"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Albendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081887,
+            "start": 30,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081887",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Broad-spectrum anthelmintic drug"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Albendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hydatid disease"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Albendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081888,
+            "start": 30,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081888",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hydatid disease"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Albendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurocysticercosis"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Albendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 30,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081889",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurocysticercosis"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Albendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting parasite’s ability to absorb glucose"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Albendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 30,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081890",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:30",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting parasite’s ability to absorb glucose"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mebendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antiparasitic drug"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mebendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+          },
+          "relationship": {
+            "identity": 1152921504606847011,
+            "start": 35,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606847011",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antiparasitic drug"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mebendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "U.s. fda"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mebendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 35,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081893",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "U.s. fda"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mebendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Intestinal worm infections"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mebendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 35,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081894",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Intestinal worm infections"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mebendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting worms' ability to absorb glucose"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:39"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mebendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+          },
+          "relationship": {
+            "identity": 6917529027641081895,
+            "start": 35,
+            "end": 39,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081895",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:39"
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting worms' ability to absorb glucose"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:39"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mebendazole"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Abdominal pain"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mebendazole"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35"
+          },
+          "relationship": {
+            "identity": 6917529027641081896,
+            "start": 35,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081896",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:35",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Abdominal pain"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Immunosuppressant drug"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 1152921504606847017,
+            "start": 41,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606847017",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Immunosuppressant drug"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prevention of organ rejection"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 41,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081899",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prevention of organ rejection"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Atopic dermatitis"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 41,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081900",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Atopic dermatitis"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Therapeutic effectiveness and minimize side effects"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:45"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 6917529027641081901,
+            "start": 41,
+            "end": 45,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081901",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:45"
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Therapeutic effectiveness and minimize side effects"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:45"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adults and children"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 6917529027641081902,
+            "start": 41,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081902",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adults and children"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tacrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Differences in absorption may affect treatment effectiveness"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tacrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 41,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081903",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:41",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Differences in absorption may affect treatment effectiveness"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibit t cell activity"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 1152921504606847024,
+            "start": 48,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606847024",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibit t cell activity"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Reduce production of pro-inflammatory cytokines"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081906,
+            "start": 48,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081906",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Reduce production of pro-inflammatory cytokines"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Burning sensation"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081907,
+            "start": 48,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081907",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Burning sensation"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allergic reactions"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 48,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081908",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allergic reactions"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Apply to affected skin areas"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 48,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081909",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Apply to affected skin areas"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid contact with sensitive areas"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 48,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081910",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid contact with sensitive areas"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Discontinue use"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 48,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081911",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Discontinue use"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid direct sun exposure"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 48,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081912",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid direct sun exposure"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Use appropriate sunscreen"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 48,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081913",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Use appropriate sunscreen"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid infected skin"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 48,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081914",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid infected skin"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treat skin infection thoroughly"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081915,
+            "start": 48,
+            "end": 59,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081915",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treat skin infection thoroughly"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increase foods rich in omega-3 fatty acids"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081916,
+            "start": 48,
+            "end": 60,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081916",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increase foods rich in omega-3 fatty acids"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increase fresh vegetables and fruits"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081917,
+            "start": 48,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081917",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increase fresh vegetables and fruits"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pimecrolimus"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Limit processed foods"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pimecrolimus"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 48,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081918",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:48",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Limit processed foods"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Calcipotriol"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Synthetic derivative of vitamin d3"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:64"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Calcipotriol"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+          },
+          "relationship": {
+            "identity": 1152921504606847039,
+            "start": 63,
+            "end": 64,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606847039",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:64"
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Synthetic derivative of vitamin d3"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:64"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Calcipotriol"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fda"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Calcipotriol"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+          },
+          "relationship": {
+            "identity": 6917529027641081921,
+            "start": 63,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081921",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fda"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Calcipotriol"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Regulating proliferation and differentiation of skin cells"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Calcipotriol"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 63,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081922",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Regulating proliferation and differentiation of skin cells"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Calcipotriol"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "0.005%"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:67"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Calcipotriol"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63"
+          },
+          "relationship": {
+            "identity": 6917529027641081923,
+            "start": 63,
+            "end": 67,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081923",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:63",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:67"
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "0.005%"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:67"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adapalene"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Synthetic retinoid"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adapalene"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+          },
+          "relationship": {
+            "identity": 1152921504606847044,
+            "start": 68,
+            "end": 69,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:1152921504606847044",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Synthetic retinoid"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adapalene"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acne"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adapalene"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+          },
+          "relationship": {
+            "identity": 6917529027641081926,
+            "start": 68,
+            "end": 70,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081926",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acne"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adapalene"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Regulating skin cell differentiation"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adapalene"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+          },
+          "relationship": {
+            "identity": 6917529027641081927,
+            "start": 68,
+            "end": 71,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081927",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Regulating skin cell differentiation"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adapalene"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inflammation"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adapalene"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+          },
+          "relationship": {
+            "identity": 6917529027641081928,
+            "start": 68,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081928",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inflammation"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adapalene"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "New acne from forming"
+        },
+        "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adapalene"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68"
+          },
+          "relationship": {
+            "identity": 6917529027641081929,
+            "start": 68,
+            "end": 73,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:6917529027641081929",
+            "startNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:68",
+            "endNodeElementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "New acne from forming"
+            },
+            "elementId": "4:96a86a6b-6ca6-4c1c-aad0-ecd7f89426ee:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

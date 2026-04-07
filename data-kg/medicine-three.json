@@ -1,0 +1,5843 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Aminopenicillin group"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1152921504606846976",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Aminopenicillin group"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081858",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urinary tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081859",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urinary tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Group b streptococcal infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081860",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Group b streptococcal infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin rash"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081861,
+            "start": 0,
+            "end": 5,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081861",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin rash"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081862,
+            "start": 0,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081862",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diarrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 0,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081863",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diarrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pseudomembranous colitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081864,
+            "start": 0,
+            "end": 8,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081864",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8"
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pseudomembranous colitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Seizures"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081865,
+            "start": 0,
+            "end": 9,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081865",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Seizures"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Infectious mononucleosis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081866,
+            "start": 0,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081866",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Infectious mononucleosis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Doctor's instructions"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 0,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081867",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Doctor's instructions"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ampicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Medical advice"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ampicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 0,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081868",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:0",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Medical advice"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2"
+          },
+          "relationship": {
+            "identity": 6917529027641081869,
+            "start": 2,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081869",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:2",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urinary tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urinary tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+          },
+          "relationship": {
+            "identity": 1155173304420532227,
+            "start": 3,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532227",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urinary tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urinary tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+          },
+          "relationship": {
+            "identity": 6917529027641081870,
+            "start": 3,
+            "end": 14,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081870",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urinary tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urinary tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3"
+          },
+          "relationship": {
+            "identity": 6917529027641081871,
+            "start": 3,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081871",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:3",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+          },
+          "relationship": {
+            "identity": 1155173304420532230,
+            "start": 6,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532230",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 6,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081872",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081873,
+            "start": 6,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081873",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:6",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diarrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diarrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+          },
+          "relationship": {
+            "identity": 1157425104234217479,
+            "start": 7,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1157425104234217479",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diarrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diarrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7"
+          },
+          "relationship": {
+            "identity": 1155173304420532231,
+            "start": 7,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532231",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:7",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pseudomembranous colitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pseudomembranous colitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8"
+          },
+          "relationship": {
+            "identity": 1155173304420532232,
+            "start": 8,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532232",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:8",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluoroquinolone group"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:77"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081933,
+            "start": 13,
+            "end": 77,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081933",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:77"
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluoroquinolone group"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:77"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chronic prostatitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:78"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081934,
+            "start": 13,
+            "end": 78,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081934",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:78"
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chronic prostatitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:78"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhalational anthrax"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:79"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081935,
+            "start": 13,
+            "end": 79,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081935",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:79"
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhalational anthrax"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:79"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tendon inflammation"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:80"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081936,
+            "start": 13,
+            "end": 80,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081936",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:80"
+          },
+          "end": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tendon inflammation"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:80"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tendon rupture"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081937,
+            "start": 13,
+            "end": 81,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081937",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tendon rupture"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Peripheral neuropathy"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081938,
+            "start": 13,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081938",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Peripheral neuropathy"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Central nervous system effects"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:83"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081939,
+            "start": 13,
+            "end": 83,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081939",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:83"
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Central nervous system effects"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:83"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 84,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Exacerbation of myasthenia gravis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:84"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081940,
+            "start": 13,
+            "end": 84,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081940",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:84"
+          },
+          "end": {
+            "identity": 84,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Exacerbation of myasthenia gravis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:84"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tablet"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:85"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081941,
+            "start": 13,
+            "end": 85,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081941",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:85"
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tablet"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:85"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antibiotic"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081874,
+            "start": 14,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081874",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antibiotic"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Macrolide group"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 14,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081875",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Macrolide group"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Upper respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 14,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081876",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Upper respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:21"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081877,
+            "start": 14,
+            "end": 21,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081877",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:21"
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:21"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Eye infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081878,
+            "start": 14,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081878",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Eye infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chlamydia"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 14,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081879",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chlamydia"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gonorrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081880,
+            "start": 14,
+            "end": 24,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081880",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24"
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gonorrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Penicillin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081881,
+            "start": 14,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081881",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Penicillin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Erythromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibits bacterial protein synthesis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:26"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Erythromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081882,
+            "start": 14,
+            "end": 26,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081882",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:14",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:26"
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibits bacterial protein synthesis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:26"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Middle ear infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "relationship": {
+            "identity": 6917529027641081928,
+            "start": 15,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081928",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Middle ear infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Early-stage lyme disease"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "relationship": {
+            "identity": 6917529027641081929,
+            "start": 15,
+            "end": 73,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081929",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Early-stage lyme disease"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin rashes"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:74"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "relationship": {
+            "identity": 6917529027641081930,
+            "start": 15,
+            "end": 74,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081930",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:74"
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin rashes"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:74"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headaches"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:75"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "relationship": {
+            "identity": 6917529027641081931,
+            "start": 15,
+            "end": 75,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081931",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:75"
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headaches"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:75"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Anaphylaxis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:76"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "relationship": {
+            "identity": 6917529027641081932,
+            "start": 15,
+            "end": 76,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081932",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:76"
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Anaphylaxis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:76"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treating various bacterial infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 16,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081908",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treating various bacterial infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Abdominal pain"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 16,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081909",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Abdominal pain"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vomiting"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 16,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081910",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vomiting"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Changes in heart's electrical activity"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 16,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081911",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Changes in heart's electrical activity"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Weight-based dosage for children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 16,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081912",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Weight-based dosage for children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Development of drug-resistant bacteria"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 16,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081913",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Development of drug-resistant bacteria"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoiding alcohol and stimulants"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 16,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081914",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoiding alcohol and stimulants"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Synthetic antibiotic"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081915,
+            "start": 17,
+            "end": 59,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081915",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Synthetic antibiotic"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antiprotozoal agent"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081916,
+            "start": 17,
+            "end": 60,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081916",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antiprotozoal agent"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nitroimidazole group"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081917,
+            "start": 17,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081917",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nitroimidazole group"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gastrointestinal infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 17,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081918",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gastrointestinal infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gynecological infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081919,
+            "start": 17,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081919",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gynecological infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin and soft tissue infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081920,
+            "start": 17,
+            "end": 64,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081920",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin and soft tissue infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lower respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081921,
+            "start": 17,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081921",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lower respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Central nervous system infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 17,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081922",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Central nervous system infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sepsis caused by anaerobic bacteria"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:67"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081923,
+            "start": 17,
+            "end": 67,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081923",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:67"
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sepsis caused by anaerobic bacteria"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:67"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dry mouth"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:68"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081924,
+            "start": 17,
+            "end": 68,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081924",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:68"
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dry mouth"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:68"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dizziness"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081925,
+            "start": 17,
+            "end": 69,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081925",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dizziness"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081926,
+            "start": 17,
+            "end": 70,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081926",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Taste disturbances"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081927,
+            "start": 17,
+            "end": 71,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081927",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Taste disturbances"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antibiotic"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Azithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antibiotic"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18"
+          },
+          "relationship": {
+            "identity": 1155173304420532242,
+            "start": 18,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532242",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:18",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Azithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Upper respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Upper respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20"
+          },
+          "relationship": {
+            "identity": 1155173304420532244,
+            "start": 20,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532244",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:20",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gonorrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gonorrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24"
+          },
+          "relationship": {
+            "identity": 1155173304420532248,
+            "start": 24,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532248",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:24",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Macrolide antibiotic"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 1152921504606847003,
+            "start": 27,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1152921504606847003",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Macrolide antibiotic"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Various bacterial infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 27,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081885",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Various bacterial infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treatment and prevention of disseminated mycobacterium avium infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 27,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081886",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treatment and prevention of disseminated mycobacterium avium infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Other medications to eradicate helicobacter pylori"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081887,
+            "start": 27,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081887",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Other medications to eradicate helicobacter pylori"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "U.s. food and drug administration"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081888,
+            "start": 27,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081888",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "U.s. food and drug administration"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acute bronchitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 27,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081889",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acute bronchitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acute maxillary sinusitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 27,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081890",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acute maxillary sinusitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Community-acquired pneumonia"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:35"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081891,
+            "start": 27,
+            "end": 35,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081891",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:35"
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Community-acquired pneumonia"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:35"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pharyngitis/tonsillitis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081892,
+            "start": 27,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081892",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pharyngitis/tonsillitis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Uncomplicated skin and soft tissue infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 27,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081893",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Uncomplicated skin and soft tissue infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acute otitis media in children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 27,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081894",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acute otitis media in children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Other medications"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:39"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081895,
+            "start": 27,
+            "end": 39,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081895",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:39"
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Other medications"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:39"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clostridium difficile-associated diarrhea"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081896,
+            "start": 27,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081896",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clostridium difficile-associated diarrhea"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe allergic reactions"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081897,
+            "start": 27,
+            "end": 41,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081897",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe allergic reactions"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prolonged qt interval"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081898,
+            "start": 27,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081898",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prolonged qt interval"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver toxicity"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 27,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081899",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver toxicity"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clarithromycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurological symptoms"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clarithromycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 27,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081900",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:27",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurological symptoms"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe allergic reactions"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metronidazole"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe allergic reactions"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41"
+          },
+          "relationship": {
+            "identity": 1155173304420532265,
+            "start": 41,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532265",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:41",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metronidazole"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Body weight"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+          },
+          "relationship": {
+            "identity": 1152921504606847021,
+            "start": 45,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1152921504606847021",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Body weight"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "15 mg/kg/day"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 45,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081903",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "15 mg/kg/day"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Two doses"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:48"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+          },
+          "relationship": {
+            "identity": 6917529027641081904,
+            "start": 45,
+            "end": 48,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081904",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:48"
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Two doses"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:48"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "10 days"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45"
+          },
+          "relationship": {
+            "identity": 6917529027641081905,
+            "start": 45,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081905",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:45",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "10 days"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mycobacterium avium"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:50"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "500 mg every 12 hours"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mycobacterium avium"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:50"
+          },
+          "relationship": {
+            "identity": 1152921504606847026,
+            "start": 50,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1152921504606847026",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:50",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "500 mg every 12 hours"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Abdominal pain"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Abdominal pain"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53"
+          },
+          "relationship": {
+            "identity": 1155173304420532277,
+            "start": 53,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532277",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:53",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vomiting"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vomiting"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54"
+          },
+          "relationship": {
+            "identity": 1155173304420532278,
+            "start": 54,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532278",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:54",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin and soft tissue infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ciprofloxacin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin and soft tissue infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+          },
+          "relationship": {
+            "identity": 1157425104234217536,
+            "start": 64,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1157425104234217536",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ciprofloxacin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin and soft tissue infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin and soft tissue infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64"
+          },
+          "relationship": {
+            "identity": 1155173304420532288,
+            "start": 64,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532288",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:64",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lower respiratory tract infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cefuroxime"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lower respiratory tract infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65"
+          },
+          "relationship": {
+            "identity": 1155173304420532289,
+            "start": 65,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1155173304420532289",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:65",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cefuroxime"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clindamycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+      },
+      "end": {
+        "identity": 87,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lincosamide group"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:87"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clindamycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+          },
+          "relationship": {
+            "identity": 1152921504606847062,
+            "start": 86,
+            "end": 87,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:1152921504606847062",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:87"
+          },
+          "end": {
+            "identity": 87,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lincosamide group"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:87"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clindamycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+      },
+      "end": {
+        "identity": 88,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Various infections"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:88"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clindamycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+          },
+          "relationship": {
+            "identity": 6917529027641081944,
+            "start": 86,
+            "end": 88,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081944",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:88"
+          },
+          "end": {
+            "identity": 88,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Various infections"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:88"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Clindamycin"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting bacterial protein synthesis"
+        },
+        "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:89"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Clindamycin"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86"
+          },
+          "relationship": {
+            "identity": 6917529027641081945,
+            "start": 86,
+            "end": 89,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:948b1513-6466-4fb9-b30a-8622d3003920:6917529027641081945",
+            "startNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:86",
+            "endNodeElementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:89"
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting bacterial protein synthesis"
+            },
+            "elementId": "4:948b1513-6466-4fb9-b30a-8622d3003920:89"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

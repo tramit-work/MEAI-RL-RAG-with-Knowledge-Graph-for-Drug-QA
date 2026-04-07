@@ -1,0 +1,3719 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metformin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Type 2 diabetes"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metformin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1152921504606846976",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Type 2 diabetes"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metformin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glucose production"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metformin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081858",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glucose production"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metformin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glucose absorption"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metformin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081859",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glucose absorption"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metformin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Insulin sensitivity"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metformin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081860",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Insulin sensitivity"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Metformin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lactic acidosis"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Metformin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081861,
+            "start": 0,
+            "end": 5,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081861",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:0",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lactic acidosis"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Type 2 diabetes"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glimepiride"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Type 2 diabetes"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+          },
+          "relationship": {
+            "identity": 6917529027641081862,
+            "start": 1,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081862",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glimepiride"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Type 2 diabetes"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sitagliptin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Type 2 diabetes"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 1,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081863",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sitagliptin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glimepiride"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sulfonylurea"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glimepiride"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081869,
+            "start": 6,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081869",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sulfonylurea"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glimepiride"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fda"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:14"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glimepiride"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081870,
+            "start": 6,
+            "end": 14,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081870",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:14"
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fda"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:14"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glimepiride"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Type 1 diabetes"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glimepiride"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081871,
+            "start": 6,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081871",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Type 1 diabetes"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glimepiride"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diabetic ketoacidosis"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glimepiride"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 6,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081872",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diabetic ketoacidosis"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sitagliptin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Medication"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sitagliptin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081873,
+            "start": 7,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081873",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Medication"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sitagliptin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting dpp-4"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sitagliptin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081874,
+            "start": 7,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081874",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting dpp-4"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sitagliptin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "100 mg once daily"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sitagliptin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 7,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081875",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "100 mg once daily"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sitagliptin"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Based on estimated glomerular filtration rate"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sitagliptin"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 7,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081876",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:7",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Based on estimated glomerular filtration rate"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gliclazide"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antidiabetic medication"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gliclazide"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+          },
+          "relationship": {
+            "identity": 1152921504606846984,
+            "start": 8,
+            "end": 9,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1152921504606846984",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antidiabetic medication"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gliclazide"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sulfonylurea group"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gliclazide"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081866,
+            "start": 8,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081866",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sulfonylurea group"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gliclazide"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hypoglycemia"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gliclazide"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 8,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081867",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hypoglycemia"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gliclazide"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "In patients with severe liver or kidney disease"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gliclazide"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 8,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081868",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:8",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "In patients with severe liver or kidney disease"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hypothyroidism"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 1152921504606846997,
+            "start": 21,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1152921504606846997",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hypothyroidism"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Thyroid-stimulating hormone suppression in tsh-dependent thyroid cancer"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 21,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081879",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Thyroid-stimulating hormone suppression in tsh-dependent thyroid cancer"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Excessive dosage"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:24"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081880,
+            "start": 21,
+            "end": 24,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081880",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:24"
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Excessive dosage"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:24"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hyperthyroidism symptoms"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081881,
+            "start": 21,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081881",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hyperthyroidism symptoms"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rare allergic reactions"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:26"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081882,
+            "start": 21,
+            "end": 26,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081882",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:26"
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rare allergic reactions"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:26"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Deficient thyroid hormone"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:27"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081883,
+            "start": 21,
+            "end": 27,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081883",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:27"
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Deficient thyroid hormone"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:27"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Suppression of thyroid-stimulating hormone"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081884,
+            "start": 21,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081884",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Suppression of thyroid-stimulating hormone"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Palpitations"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 21,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081885",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Palpitations"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hand tremors"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 21,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081886",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hand tremors"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Morning"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081887,
+            "start": 21,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081887",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Morning"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Empty stomach"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081888,
+            "start": 21,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081888",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Empty stomach"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cardiovascular disease"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 21,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081889",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cardiovascular disease"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid calcium"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 21,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081890",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid calcium"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid iron"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:35"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081891,
+            "start": 21,
+            "end": 35,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081891",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:35"
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid iron"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:35"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid soy"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081892,
+            "start": 21,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081892",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid soy"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid high fiber"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 21,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081893",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid high fiber"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levothyroxine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Maintain balanced diet"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levothyroxine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 21,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081894",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:21",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Maintain balanced diet"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antithyroid medication"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+          },
+          "relationship": {
+            "identity": 1152921504606847015,
+            "start": 39,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1152921504606847015",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antithyroid medication"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hyperthyroid conditions"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+          },
+          "relationship": {
+            "identity": 6917529027641081897,
+            "start": 39,
+            "end": 41,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081897",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hyperthyroid conditions"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting the enzyme thyroperoxidase"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39"
+          },
+          "relationship": {
+            "identity": 6917529027641081898,
+            "start": 39,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081898",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:39",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting the enzyme thyroperoxidase"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Antithyroid medication"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Antithyroid medication"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 40,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081899",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:40",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hyperthyroidism"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 43,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081900",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hyperthyroidism"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Thyroid gland surgery"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:45"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081901,
+            "start": 43,
+            "end": 45,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081901",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:45"
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Thyroid gland surgery"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:45"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Radioactive iodine therapy"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081902,
+            "start": 43,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081902",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Radioactive iodine therapy"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 43,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081903",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:48"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081904,
+            "start": 43,
+            "end": 48,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081904",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:48"
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:48"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Joint pain"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081905,
+            "start": 43,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081905",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Joint pain"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach discomfort"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081906,
+            "start": 43,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081906",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach discomfort"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rash"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081907,
+            "start": 43,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081907",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rash"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Itching"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 43,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081908",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Itching"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Bone marrow suppression"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 43,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081909",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Bone marrow suppression"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "20 mg-60 mg"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 43,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081910",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "20 mg-60 mg"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "5 mg-15 mg"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 43,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081911",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "5 mg-15 mg"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children under 2 years old"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 43,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081912",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children under 2 years old"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Elderly patients"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 43,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081913",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Elderly patients"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Carbimazole"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver or kidney problems"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Carbimazole"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 43,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081914",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:43",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver or kidney problems"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colchicine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47"
+          },
+          "relationship": {
+            "identity": 6917529027641081915,
+            "start": 47,
+            "end": 59,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081915",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:47",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colchicine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colchicine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Acute gout attacks"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colchicine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+          },
+          "relationship": {
+            "identity": 6917529027641081921,
+            "start": 59,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081921",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Acute gout attacks"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colchicine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Familial mediterranean fever"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colchicine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 59,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081922",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Familial mediterranean fever"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colchicine"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colcrys"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:67"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colchicine"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59"
+          },
+          "relationship": {
+            "identity": 6917529027641081923,
+            "start": 59,
+            "end": 67,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081923",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:59",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:67"
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colcrys"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:67"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allopurinol"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Conditions associated with elevated blood uric acid levels"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allopurinol"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+          },
+          "relationship": {
+            "identity": 1152921504606847036,
+            "start": 60,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:1152921504606847036",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Conditions associated with elevated blood uric acid levels"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allopurinol"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Reducing the production of uric acid"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allopurinol"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 60,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081918",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Reducing the production of uric acid"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allopurinol"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Drug reaction with eosinophilia and systemic symptoms (dress"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allopurinol"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+          },
+          "relationship": {
+            "identity": 6917529027641081919,
+            "start": 60,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081919",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Drug reaction with eosinophilia and systemic symptoms (dress"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allopurinol"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Patients with impaired kidney function or those on diuretics"
+        },
+        "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:64"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allopurinol"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60"
+          },
+          "relationship": {
+            "identity": 6917529027641081920,
+            "start": 60,
+            "end": 64,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:0b3eb7c8-e093-4a10-b986-e0c1a764e128:6917529027641081920",
+            "startNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:60",
+            "endNodeElementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:64"
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Patients with impaired kidney function or those on diuretics"
+            },
+            "elementId": "4:0b3eb7c8-e093-4a10-b986-e0c1a764e128:64"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

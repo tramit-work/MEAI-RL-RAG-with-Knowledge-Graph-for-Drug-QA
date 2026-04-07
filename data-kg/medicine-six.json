@@ -1,0 +1,5607 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vitamin b1"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606846976",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vitamin b1"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vitamin b6"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081858",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vitamin b6"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vitamin b12"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081859",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vitamin b12"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neuritis"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081860",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neuritis"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Sciatica"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081861,
+            "start": 0,
+            "end": 5,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081861",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Sciatica"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adults"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081862,
+            "start": 0,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081862",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adults"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 0,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081863",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Swallowed whole"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:8"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081864,
+            "start": 0,
+            "end": 8,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081864",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:8"
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Swallowed whole"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:8"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Under medical supervision"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081865,
+            "start": 0,
+            "end": 9,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081865",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Under medical supervision"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Levodopa"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081866,
+            "start": 0,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081866",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Levodopa"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Isoniazid"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 0,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081867",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Isoniazid"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Neurobion"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hydralazine"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Neurobion"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 0,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081868",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:0",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hydralazine"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adults"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adults"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6"
+          },
+          "relationship": {
+            "identity": 6917529027641081869,
+            "start": 6,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081869",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:6",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Children"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Children"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7"
+          },
+          "relationship": {
+            "identity": 1155173304420532231,
+            "start": 7,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1155173304420532231",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:7",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver-support supplement"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 13,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081918",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver-support supplement"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Artichoke"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081919,
+            "start": 13,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081919",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Artichoke"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Wedelia chinensis"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:64"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081920,
+            "start": 13,
+            "end": 64,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081920",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:64"
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Wedelia chinensis"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:64"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pharbitis nil"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081921,
+            "start": 13,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081921",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pharbitis nil"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Promote liver health"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 13,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081922",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Promote liver health"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Bile production"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:67"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081923,
+            "start": 13,
+            "end": 67,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081923",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:67"
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Bile production"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:67"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urination"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:68"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081924,
+            "start": 13,
+            "end": 68,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081924",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:68"
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urination"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:68"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Detoxification"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081925,
+            "start": 13,
+            "end": 69,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081925",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Detoxification"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diarrhea"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081926,
+            "start": 13,
+            "end": 70,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081926",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diarrhea"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allergies"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081927,
+            "start": 13,
+            "end": 71,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081927",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allergies"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Duration"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081928,
+            "start": 13,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081928",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Duration"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver problems"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081929,
+            "start": 13,
+            "end": 73,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081929",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver problems"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alcohol consumption"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:74"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081930,
+            "start": 13,
+            "end": 74,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081930",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:74"
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alcohol consumption"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:74"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Toxic chemicals"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:75"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081931,
+            "start": 13,
+            "end": 75,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081931",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:75"
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Toxic chemicals"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:75"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Healthy lifestyle"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:76"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081932,
+            "start": 13,
+            "end": 76,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081932",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:76"
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Healthy lifestyle"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:76"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vegetables"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:77"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081933,
+            "start": 13,
+            "end": 77,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081933",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:77"
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vegetables"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:77"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fruits"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:78"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081934,
+            "start": 13,
+            "end": 78,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081934",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:78"
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fruits"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:78"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fiber-rich foods"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:79"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081935,
+            "start": 13,
+            "end": 79,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081935",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:79"
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fiber-rich foods"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:79"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Biologically active form of vitamin b12"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 1152921504606846990,
+            "start": 14,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606846990",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Biologically active form of vitamin b12"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Essential role in maintaining nerve function and blood formation"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 14,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081872",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Essential role in maintaining nerve function and blood formation"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Individuals with liver or kidney issues"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081873,
+            "start": 14,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081873",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Individuals with liver or kidney issues"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pregnant or breastfeeding women"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081874,
+            "start": 14,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081874",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pregnant or breastfeeding women"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Chloramphenicol"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 14,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081875",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Chloramphenicol"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Healthy diet rich in vitamin b12"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 14,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081876",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Healthy diet rich in vitamin b12"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Red meat"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:21"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081877,
+            "start": 14,
+            "end": 21,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081877",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:21"
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Red meat"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:21"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081878,
+            "start": 14,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081878",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fish"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 14,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081879",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fish"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Eggs"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:24"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081880,
+            "start": 14,
+            "end": 24,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081880",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:24"
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Eggs"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:24"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dairy products"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081881,
+            "start": 14,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081881",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dairy products"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Vegetarians"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:26"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081882,
+            "start": 14,
+            "end": 26,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081882",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:26"
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Vegetarians"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:26"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fortified foods"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:27"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081883,
+            "start": 14,
+            "end": 27,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081883",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:27"
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fortified foods"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:27"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dietary supplements"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081884,
+            "start": 14,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081884",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dietary supplements"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoiding alcohol"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 14,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081885",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoiding alcohol"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mecobalamin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoiding tobacco"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mecobalamin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 14,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081886",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:14",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoiding tobacco"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Epilepsy"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 1152921504606847007,
+            "start": 31,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606847007",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Epilepsy"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Postherpetic neuralgia"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 31,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081889",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Postherpetic neuralgia"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Spinal cord injury-related nerve pain"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 31,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081890",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Spinal cord injury-related nerve pain"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Restless leg syndrome"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:35"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081891,
+            "start": 31,
+            "end": 35,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081891",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:35"
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Restless leg syndrome"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:35"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diabetic neuropathy"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081892,
+            "start": 31,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081892",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diabetic neuropathy"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Reducing the activity of the α₂δ-1 protein"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 31,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081893",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Reducing the activity of the α₂δ-1 protein"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Drowsiness"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 31,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081894",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Drowsiness"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dizziness"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081895,
+            "start": 31,
+            "end": 39,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081895",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39"
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dizziness"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fatigue"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081896,
+            "start": 31,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081896",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fatigue"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hand tremors"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081897,
+            "start": 31,
+            "end": 41,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081897",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hand tremors"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Double or blurred vision"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081898,
+            "start": 31,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081898",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Double or blurred vision"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Weight gain"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 31,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081899",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Weight gain"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Swelling in the hands and feet"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 31,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081900",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Swelling in the hands and feet"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gabapentin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gabapentin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081901,
+            "start": 31,
+            "end": 45,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081901",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:31",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45"
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dizziness"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dizziness"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39"
+          },
+          "relationship": {
+            "identity": 6917529027641081902,
+            "start": 39,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081902",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:39",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45"
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Boganic"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45"
+          },
+          "relationship": {
+            "identity": 1155173304420532269,
+            "start": 45,
+            "end": 13,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1155173304420532269",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:45",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Boganic"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:13"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cerebral blood circulation"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 46,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081903",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cerebral blood circulation"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Memory"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:48"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081904,
+            "start": 46,
+            "end": 48,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081904",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:48"
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Memory"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:48"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Concentration"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081905,
+            "start": 46,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081905",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Concentration"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tinnitus"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081906,
+            "start": 46,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081906",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tinnitus"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hearing loss"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081907,
+            "start": 46,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081907",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hearing loss"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Alzheimer's disease"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 46,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081908",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Alzheimer's disease"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Mild to moderate dementia"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 46,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081909",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Mild to moderate dementia"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Peripheral circulatory disorders such as intermittent claudication"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 46,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081910",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Peripheral circulatory disorders such as intermittent claudication"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 46,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081911",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Digestive disorders"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 46,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081912",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Digestive disorders"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Skin allergies"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 46,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081913",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Skin allergies"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tanakan"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "May reduce blood clotting ability"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tanakan"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 46,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081914",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:46",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "May reduce blood clotting ability"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Silymarin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Damaged liver cells"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Silymarin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59"
+          },
+          "relationship": {
+            "identity": 1152921504606847035,
+            "start": 59,
+            "end": 60,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606847035",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Damaged liver cells"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Silymarin"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Legalon"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Silymarin"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59"
+          },
+          "relationship": {
+            "identity": 6917529027641081917,
+            "start": 59,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081917",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:59",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Legalon"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Legalon"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+      },
+      "end": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver conditions"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:80"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Legalon"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+          },
+          "relationship": {
+            "identity": 6917529027641081936,
+            "start": 61,
+            "end": 80,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081936",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:80"
+          },
+          "end": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver conditions"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:80"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Legalon"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver function"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Legalon"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61"
+          },
+          "relationship": {
+            "identity": 6917529027641081937,
+            "start": 61,
+            "end": 81,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081937",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:61",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver function"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver function"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Livolin forte"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver function"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81"
+          },
+          "relationship": {
+            "identity": 6917529027641081938,
+            "start": 81,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081938",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:81",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Livolin forte"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Livolin forte"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+      },
+      "end": {
+        "identity": 96,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Essential phospholipids"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:96"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Livolin forte"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081952,
+            "start": 82,
+            "end": 96,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081952",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:96"
+          },
+          "end": {
+            "identity": 96,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Essential phospholipids"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:96"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Livolin forte"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+      },
+      "end": {
+        "identity": 97,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Regenerate and repair liver cells"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:97"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Livolin forte"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081953,
+            "start": 82,
+            "end": 97,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081953",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:97"
+          },
+          "end": {
+            "identity": 97,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Regenerate and repair liver cells"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:97"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Livolin forte"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+      },
+      "end": {
+        "identity": 98,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Protect liver from oxidative stress"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:98"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Livolin forte"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081954,
+            "start": 82,
+            "end": 98,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081954",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:98"
+          },
+          "end": {
+            "identity": 98,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Protect liver from oxidative stress"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:98"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Livolin forte"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+      },
+      "end": {
+        "identity": 99,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Recovery process after liver or gallbladder surgery"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:99"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Livolin forte"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82"
+          },
+          "relationship": {
+            "identity": 6917529027641081955,
+            "start": 82,
+            "end": 99,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081955",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:82",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:99"
+          },
+          "end": {
+            "identity": 99,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Recovery process after liver or gallbladder surgery"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:99"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepa-merz"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+      },
+      "end": {
+        "identity": 84,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ammonia concentration"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:84"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepa-merz"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+          },
+          "relationship": {
+            "identity": 1152921504606847059,
+            "start": 83,
+            "end": 84,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606847059",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:84"
+          },
+          "end": {
+            "identity": 84,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ammonia concentration"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:84"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepa-merz"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Determined by doctor"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:85"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepa-merz"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+          },
+          "relationship": {
+            "identity": 6917529027641081941,
+            "start": 83,
+            "end": 85,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081941",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:85"
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Determined by doctor"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:85"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Hepa-merz"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Considered carefully"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:86"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Hepa-merz"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83"
+          },
+          "relationship": {
+            "identity": 6917529027641081942,
+            "start": 83,
+            "end": 86,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081942",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:83",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:86"
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Considered carefully"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:86"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 87,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lola"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87"
+      },
+      "end": {
+        "identity": 88,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Urea cycle"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:88"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 87,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lola"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87"
+          },
+          "relationship": {
+            "identity": 1152921504606847063,
+            "start": 87,
+            "end": 88,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606847063",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:88"
+          },
+          "end": {
+            "identity": 88,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Urea cycle"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:88"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 87,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Lola"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87"
+      },
+      "end": {
+        "identity": 89,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Glutamine synthesis"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:89"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 87,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Lola"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87"
+          },
+          "relationship": {
+            "identity": 6917529027641081945,
+            "start": 87,
+            "end": 89,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081945",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:87",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:89"
+          },
+          "end": {
+            "identity": 89,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Glutamine synthesis"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:89"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heptral"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+      },
+      "end": {
+        "identity": 91,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ademetionine"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:91"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heptral"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+          },
+          "relationship": {
+            "identity": 1152921504606847066,
+            "start": 90,
+            "end": 91,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:1152921504606847066",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:91"
+          },
+          "end": {
+            "identity": 91,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ademetionine"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:91"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heptral"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+      },
+      "end": {
+        "identity": 92,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treatment of liver diseases"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:92"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heptral"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+          },
+          "relationship": {
+            "identity": 6917529027641081948,
+            "start": 90,
+            "end": 92,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081948",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:92"
+          },
+          "end": {
+            "identity": 92,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treatment of liver diseases"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:92"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heptral"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+      },
+      "end": {
+        "identity": 93,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Protect liver cells from harmful agents"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:93"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heptral"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+          },
+          "relationship": {
+            "identity": 6917529027641081949,
+            "start": 90,
+            "end": 93,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081949",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:93"
+          },
+          "end": {
+            "identity": 93,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Protect liver cells from harmful agents"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:93"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heptral"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+      },
+      "end": {
+        "identity": 94,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver in performing its normal functions"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:94"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heptral"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+          },
+          "relationship": {
+            "identity": 6917529027641081950,
+            "start": 90,
+            "end": 94,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081950",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:94"
+          },
+          "end": {
+            "identity": 94,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver in performing its normal functions"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:94"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 90,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heptral"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+      },
+      "end": {
+        "identity": 95,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "400-1600 mg per day"
+        },
+        "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:95"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heptral"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90"
+          },
+          "relationship": {
+            "identity": 6917529027641081951,
+            "start": 90,
+            "end": 95,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:134548a4-67b3-4e99-8029-d5d51d105fde:6917529027641081951",
+            "startNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:90",
+            "endNodeElementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:95"
+          },
+          "end": {
+            "identity": 95,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "400-1600 mg per day"
+            },
+            "elementId": "4:134548a4-67b3-4e99-8029-d5d51d105fde:95"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

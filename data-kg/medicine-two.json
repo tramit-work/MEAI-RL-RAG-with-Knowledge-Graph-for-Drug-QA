@@ -1,0 +1,5784 @@
+[
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Oxicam class"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:1"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 1152921504606846976,
+            "start": 0,
+            "end": 1,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1152921504606846976",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:1"
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Oxicam class"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:1"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting the cyclooxygenase enzyme"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:2"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081858,
+            "start": 0,
+            "end": 2,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081858",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:2"
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting the cyclooxygenase enzyme"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:2"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heart attack and stroke"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:3"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081859,
+            "start": 0,
+            "end": 3,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081859",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:3"
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heart attack and stroke"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:3"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 4,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "20 mg once daily"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:4"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081860,
+            "start": 0,
+            "end": 4,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081860",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:4"
+          },
+          "end": {
+            "identity": 4,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "20 mg once daily"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:4"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 5,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Individual response and severity of condition"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:5"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081861,
+            "start": 0,
+            "end": 5,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081861",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:5"
+          },
+          "end": {
+            "identity": 5,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Individual response and severity of condition"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:5"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Insufficient safety and efficacy data"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:6"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081862,
+            "start": 0,
+            "end": 6,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081862",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:6"
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Insufficient safety and efficacy data"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:6"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 7,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Water"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:7"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081863,
+            "start": 0,
+            "end": 7,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081863",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:7"
+          },
+          "end": {
+            "identity": 7,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Water"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:7"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 8,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Tablet"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:8"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081864,
+            "start": 0,
+            "end": 8,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081864",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:8"
+          },
+          "end": {
+            "identity": 8,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Tablet"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:8"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 9,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Food or milk"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:9"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081865,
+            "start": 0,
+            "end": 9,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081865",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:9"
+          },
+          "end": {
+            "identity": 9,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Food or milk"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:9"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 10,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Limit alcohol consumption and avoid smoking"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:10"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081866,
+            "start": 0,
+            "end": 10,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081866",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:10"
+          },
+          "end": {
+            "identity": 10,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Limit alcohol consumption and avoid smoking"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:10"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 11,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diet"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:11"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081867,
+            "start": 0,
+            "end": 11,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081867",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:11"
+          },
+          "end": {
+            "identity": 11,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diet"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:11"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 0,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Piroxicam"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+      },
+      "end": {
+        "identity": 12,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Precautions"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:12"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 0,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Piroxicam"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0"
+          },
+          "relationship": {
+            "identity": 6917529027641081868,
+            "start": 0,
+            "end": 12,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081868",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:0",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:12"
+          },
+          "end": {
+            "identity": 12,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Precautions"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:12"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 1152921504606846989,
+            "start": 13,
+            "end": 14,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1152921504606846989",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 15,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pain relief"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:15"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081871,
+            "start": 13,
+            "end": 15,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081871",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:15"
+          },
+          "end": {
+            "identity": 15,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pain relief"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:15"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Reducing fever"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:16"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081872,
+            "start": 13,
+            "end": 16,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081872",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:16"
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Reducing fever"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:16"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081873,
+            "start": 13,
+            "end": 17,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081873",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+          },
+          "end": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 18,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gout"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:18"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081874,
+            "start": 13,
+            "end": 18,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081874",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:18"
+          },
+          "end": {
+            "identity": 18,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gout"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:18"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 19,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dizziness"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:19"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081875,
+            "start": 13,
+            "end": 19,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081875",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:19"
+          },
+          "end": {
+            "identity": 19,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dizziness"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:19"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 20,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Headache"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:20"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081876,
+            "start": 13,
+            "end": 20,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081876",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:20"
+          },
+          "end": {
+            "identity": 20,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Headache"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:20"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081877,
+            "start": 13,
+            "end": 21,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081877",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21"
+          },
+          "end": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 22,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heartburn"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:22"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081878,
+            "start": 13,
+            "end": 22,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081878",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:22"
+          },
+          "end": {
+            "identity": 22,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heartburn"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:22"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach pain"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081879,
+            "start": 13,
+            "end": 23,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081879",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+          },
+          "end": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach pain"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 24,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe allergic reactions"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:24"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081880,
+            "start": 13,
+            "end": 24,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081880",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:24"
+          },
+          "end": {
+            "identity": 24,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe allergic reactions"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:24"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach ulcers"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081881,
+            "start": 13,
+            "end": 25,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081881",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+          },
+          "end": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach ulcers"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gastrointestinal bleeding"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081882,
+            "start": 13,
+            "end": 26,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081882",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26"
+          },
+          "end": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gastrointestinal bleeding"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 27,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heart attack"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:27"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081883,
+            "start": 13,
+            "end": 27,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081883",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:27"
+          },
+          "end": {
+            "identity": 27,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heart attack"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:27"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 28,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stroke"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:28"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081884,
+            "start": 13,
+            "end": 28,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081884",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:28"
+          },
+          "end": {
+            "identity": 28,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stroke"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:28"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 13,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Naproxen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+      },
+      "end": {
+        "identity": 29,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "With a full glass of water"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:29"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 13,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Naproxen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13"
+          },
+          "relationship": {
+            "identity": 6917529027641081885,
+            "start": 13,
+            "end": 29,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081885",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:13",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:29"
+          },
+          "end": {
+            "identity": 29,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "With a full glass of water"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:29"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081886,
+            "start": 14,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081886",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 14,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nonsteroidal anti-inflammatory drug"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 14,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nonsteroidal anti-inflammatory drug"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14"
+          },
+          "relationship": {
+            "identity": 6917529027641081887,
+            "start": 14,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081887",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:14",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+          },
+          "relationship": {
+            "identity": 1155173304420532241,
+            "start": 17,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532241",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+      },
+      "end": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081888,
+            "start": 17,
+            "end": 32,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081888",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "end": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 17,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Rheumatoid arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 17,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Rheumatoid arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17"
+          },
+          "relationship": {
+            "identity": 6917529027641081889,
+            "start": 17,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081889",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:17",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Nausea"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Nausea"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21"
+          },
+          "relationship": {
+            "identity": 1155173304420532245,
+            "start": 21,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532245",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:21",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach pain"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+      },
+      "end": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach pain"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+          },
+          "relationship": {
+            "identity": 1155173304420532247,
+            "start": 23,
+            "end": 30,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532247",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "end": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach pain"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach pain"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23"
+          },
+          "relationship": {
+            "identity": 1157425104234217495,
+            "start": 23,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1157425104234217495",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:23",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach ulcers"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach ulcers"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+          },
+          "relationship": {
+            "identity": 1155173304420532249,
+            "start": 25,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532249",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stomach ulcers"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+      },
+      "end": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stomach ulcers"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25"
+          },
+          "relationship": {
+            "identity": 1157425104234217497,
+            "start": 25,
+            "end": 33,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1157425104234217497",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:25",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "end": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Gastrointestinal bleeding"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Gastrointestinal bleeding"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26"
+          },
+          "relationship": {
+            "identity": 1155173304420532250,
+            "start": 26,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532250",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:26",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 34,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Medication"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:34"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081890,
+            "start": 30,
+            "end": 34,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081890",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:34"
+          },
+          "end": {
+            "identity": 34,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Medication"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:34"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 35,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treating symptoms of rheumatoid arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:35"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081891,
+            "start": 30,
+            "end": 35,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081891",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:35"
+          },
+          "end": {
+            "identity": 35,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treating symptoms of rheumatoid arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:35"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 36,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting cyclooxygenase enzyme"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:36"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081892,
+            "start": 30,
+            "end": 36,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081892",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:36"
+          },
+          "end": {
+            "identity": 36,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting cyclooxygenase enzyme"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:36"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 37,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Older adults"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:37"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081893,
+            "start": 30,
+            "end": 37,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081893",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:37"
+          },
+          "end": {
+            "identity": 37,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Older adults"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:37"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 38,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "25-50 mg every 6-8 hours"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:38"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081894,
+            "start": 30,
+            "end": 38,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081894",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:38"
+          },
+          "end": {
+            "identity": 38,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "25-50 mg every 6-8 hours"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:38"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Pregnant women after the 20th week of gestation"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:39"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081895,
+            "start": 30,
+            "end": 39,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081895",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:39"
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Pregnant women after the 20th week of gestation"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:39"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Ketoprofen"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+      },
+      "end": {
+        "identity": 40,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Heart disease"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:40"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Ketoprofen"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30"
+          },
+          "relationship": {
+            "identity": 6917529027641081896,
+            "start": 30,
+            "end": 40,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081896",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:30",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:40"
+          },
+          "end": {
+            "identity": 40,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Heart disease"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:40"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 50,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Inhibiting inflammatory mediators"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:50"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081906,
+            "start": 31,
+            "end": 50,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081906",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:50"
+          },
+          "end": {
+            "identity": 50,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Inhibiting inflammatory mediators"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:50"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 51,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Liver failure"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:51"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081907,
+            "start": 31,
+            "end": 51,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081907",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:51"
+          },
+          "end": {
+            "identity": 51,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Liver failure"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:51"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Kidney failure"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:52"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081908,
+            "start": 31,
+            "end": 52,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081908",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:52"
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Kidney failure"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:52"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Stevens-johnson syndrome"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:53"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081909,
+            "start": 31,
+            "end": 53,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081909",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:53"
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Stevens-johnson syndrome"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:53"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cardiovascular events"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:54"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081910,
+            "start": 31,
+            "end": 54,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081910",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:54"
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cardiovascular events"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:54"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "20 mg per day"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:55"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081911,
+            "start": 31,
+            "end": 55,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081911",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:55"
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "20 mg per day"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:55"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Divided into two doses"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:56"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "relationship": {
+            "identity": 6917529027641081912,
+            "start": 31,
+            "end": 56,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081912",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:56"
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Divided into two doses"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:56"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Diclofenac sodium"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:41"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081897,
+            "start": 32,
+            "end": 41,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081897",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:41"
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Diclofenac sodium"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:41"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoarthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081898,
+            "start": 32,
+            "end": 42,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081898",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42"
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoarthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Musculoskeletal pain"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:43"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081899,
+            "start": 32,
+            "end": 43,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081899",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:43"
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Musculoskeletal pain"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:43"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Abdominal pain"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:44"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081900,
+            "start": 32,
+            "end": 44,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081900",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:44"
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Abdominal pain"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:44"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 45,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "4 g or 2 g"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:45"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081901,
+            "start": 32,
+            "end": 45,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081901",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:45"
+          },
+          "end": {
+            "identity": 45,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "4 g or 2 g"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:45"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 46,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Strictly follow according to a doctor's prescription"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:46"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081902,
+            "start": 32,
+            "end": 46,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081902",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:46"
+          },
+          "end": {
+            "identity": 46,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Strictly follow according to a doctor's prescription"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:46"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prevent serious side effects"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:47"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081903,
+            "start": 32,
+            "end": 47,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081903",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:47"
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prevent serious side effects"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:47"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 48,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Avoid using concurrently with other nsaids or aspirin unless prescribed by a doctor"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:48"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081904,
+            "start": 32,
+            "end": 48,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081904",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:48"
+          },
+          "end": {
+            "identity": 48,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Avoid using concurrently with other nsaids or aspirin unless prescribed by a doctor"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:48"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Voltaren"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "No special dietary changes are required during voltaren use"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:49"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Voltaren"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32"
+          },
+          "relationship": {
+            "identity": 6917529027641081905,
+            "start": 32,
+            "end": 49,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081905",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:32",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:49"
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "No special dietary changes are required during voltaren use"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:49"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Systemic lupus erythematosus"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:57"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081913,
+            "start": 33,
+            "end": 57,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081913",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:57"
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Systemic lupus erythematosus"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:57"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Asthma"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081914,
+            "start": 33,
+            "end": 58,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081914",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58"
+          },
+          "end": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Asthma"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 59,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Colitis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:59"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081915,
+            "start": 33,
+            "end": 59,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081915",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:59"
+          },
+          "end": {
+            "identity": 59,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Colitis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:59"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Atopic dermatitis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:60"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081916,
+            "start": 33,
+            "end": 60,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081916",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:60"
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Atopic dermatitis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:60"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe allergic disorders"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:61"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081917,
+            "start": 33,
+            "end": 61,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081917",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:61"
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe allergic disorders"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:61"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Adrenal insufficiency"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:62"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081918,
+            "start": 33,
+            "end": 62,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081918",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:62"
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Adrenal insufficiency"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:62"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 63,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Cancer-related hypercalcemia"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:63"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081919,
+            "start": 33,
+            "end": 63,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081919",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:63"
+          },
+          "end": {
+            "identity": 63,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Cancer-related hypercalcemia"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:63"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "High blood pressure"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081920,
+            "start": 33,
+            "end": 64,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081920",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64"
+          },
+          "end": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "High blood pressure"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Fluid and sodium retention"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:65"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081921,
+            "start": 33,
+            "end": 65,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081921",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:65"
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Fluid and sodium retention"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:65"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Potassium loss"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:66"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081922,
+            "start": 33,
+            "end": 66,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081922",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:66"
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Potassium loss"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:66"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increased blood sugar levels"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081923,
+            "start": 33,
+            "end": 67,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081923",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67"
+          },
+          "end": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increased blood sugar levels"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoporosis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081924,
+            "start": 33,
+            "end": 68,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081924",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68"
+          },
+          "end": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoporosis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Muscle weakness"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081925,
+            "start": 33,
+            "end": 69,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081925",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69"
+          },
+          "end": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Muscle weakness"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increased risk of infections"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081926,
+            "start": 33,
+            "end": 70,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081926",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70"
+          },
+          "end": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increased risk of infections"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 33,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Prednisone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+      },
+      "end": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Psychiatric disturbances"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 33,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Prednisone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33"
+          },
+          "relationship": {
+            "identity": 6917529027641081927,
+            "start": 33,
+            "end": 71,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081927",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:33",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71"
+          },
+          "end": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Psychiatric disturbances"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 42,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoarthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42"
+      },
+      "end": {
+        "identity": 31,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Feldene"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 42,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoarthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42"
+          },
+          "relationship": {
+            "identity": 1155173304420532266,
+            "start": 42,
+            "end": 31,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532266",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:42",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          },
+          "end": {
+            "identity": 31,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Feldene"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:31"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 58,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Asthma"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 58,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Asthma"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58"
+          },
+          "relationship": {
+            "identity": 6917529027641081928,
+            "start": 58,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081928",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:58",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 64,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "High blood pressure"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 64,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "High blood pressure"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64"
+          },
+          "relationship": {
+            "identity": 1155173304420532288,
+            "start": 64,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532288",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:64",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 67,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increased blood sugar levels"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 67,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increased blood sugar levels"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67"
+          },
+          "relationship": {
+            "identity": 1155173304420532291,
+            "start": 67,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532291",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:67",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 68,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Osteoporosis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 68,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Osteoporosis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68"
+          },
+          "relationship": {
+            "identity": 1155173304420532292,
+            "start": 68,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532292",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:68",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 69,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Muscle weakness"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 69,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Muscle weakness"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69"
+          },
+          "relationship": {
+            "identity": 1155173304420532293,
+            "start": 69,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532293",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:69",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 70,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Increased risk of infections"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 70,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Increased risk of infections"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70"
+          },
+          "relationship": {
+            "identity": 1155173304420532294,
+            "start": 70,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532294",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:70",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 71,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Psychiatric disturbances"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71"
+      },
+      "end": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 71,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Psychiatric disturbances"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71"
+          },
+          "relationship": {
+            "identity": 1155173304420532295,
+            "start": 71,
+            "end": 72,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1155173304420532295",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:71",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "end": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 73,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Synthetic corticosteroid"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:73"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081929,
+            "start": 72,
+            "end": 73,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081929",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:73"
+          },
+          "end": {
+            "identity": 73,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Synthetic corticosteroid"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:73"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 74,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Immune system"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:74"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081930,
+            "start": 72,
+            "end": 74,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081930",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:74"
+          },
+          "end": {
+            "identity": 74,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Immune system"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:74"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 75,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Allergic responses"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:75"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081931,
+            "start": 72,
+            "end": 75,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081931",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:75"
+          },
+          "end": {
+            "identity": 75,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Allergic responses"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:75"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 76,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Arthritis"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:76"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081932,
+            "start": 72,
+            "end": 76,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081932",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:76"
+          },
+          "end": {
+            "identity": 76,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Arthritis"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:76"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 77,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Severe allergies"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:77"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081933,
+            "start": 72,
+            "end": 77,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081933",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:77"
+          },
+          "end": {
+            "identity": 77,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Severe allergies"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:77"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 78,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Autoimmune diseases"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:78"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081934,
+            "start": 72,
+            "end": 78,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081934",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:78"
+          },
+          "end": {
+            "identity": 78,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Autoimmune diseases"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:78"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 72,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Dexamethasone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+      },
+      "end": {
+        "identity": 79,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Multiple myeloma"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:79"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 72,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Dexamethasone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72"
+          },
+          "relationship": {
+            "identity": 6917529027641081935,
+            "start": 72,
+            "end": 79,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081935",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:72",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:79"
+          },
+          "end": {
+            "identity": 79,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Multiple myeloma"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:79"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 81,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Synthetic glucocorticoid"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:81"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 1152921504606847056,
+            "start": 80,
+            "end": 81,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:1152921504606847056",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:81"
+          },
+          "end": {
+            "identity": 81,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Synthetic glucocorticoid"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:81"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 82,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Corticosteroid group"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:82"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081938,
+            "start": 80,
+            "end": 82,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081938",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:82"
+          },
+          "end": {
+            "identity": 82,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Corticosteroid group"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:82"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 83,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Treatment of inflammatory and immune-related conditions"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:83"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081939,
+            "start": 80,
+            "end": 83,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081939",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:83"
+          },
+          "end": {
+            "identity": 83,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Treatment of inflammatory and immune-related conditions"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:83"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 84,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "The treatment of certain cancers and other endocrine disorders"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:84"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081940,
+            "start": 80,
+            "end": 84,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081940",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:84"
+          },
+          "end": {
+            "identity": 84,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "The treatment of certain cancers and other endocrine disorders"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:84"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 85,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Newborns"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:85"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081941,
+            "start": 80,
+            "end": 85,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081941",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:85"
+          },
+          "end": {
+            "identity": 85,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Newborns"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:85"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 80,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Methylprednisolone"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+      },
+      "end": {
+        "identity": 86,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "Withdrawal syndrome"
+        },
+        "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:86"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 80,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Methylprednisolone"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80"
+          },
+          "relationship": {
+            "identity": 6917529027641081942,
+            "start": 80,
+            "end": 86,
+            "type": "RELATED_TO",
+            "properties": {},
+            "elementId": "5:199b637e-acc8-46be-8e72-813f3b2e45b6:6917529027641081942",
+            "startNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:80",
+            "endNodeElementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:86"
+          },
+          "end": {
+            "identity": 86,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "Withdrawal syndrome"
+            },
+            "elementId": "4:199b637e-acc8-46be-8e72-813f3b2e45b6:86"
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

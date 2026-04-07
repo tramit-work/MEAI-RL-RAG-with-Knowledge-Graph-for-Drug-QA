@@ -1,0 +1,139 @@
+*{
+box-sizing:border-box;
+}
+
+body{
+margin:0;
+font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+background:linear-gradient(135deg,#f5f7fb,#eef2ff);
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+/* APP */
+
+.app{
+width:950px;
+height:90vh;
+background:white;
+border-radius:18px;
+display:flex;
+flex-direction:column;
+box-shadow:0 25px 70px rgba(0,0,0,0.08);
+overflow:hidden;
+}
+
+/* HEADER */
+
+.header{
+text-align:center;
+padding:22px;
+border-bottom:1px solid #eee;
+background:white;
+}
+
+.header h1{
+margin:0;
+font-size:38px;
+letter-spacing:1px;
+}
+
+.header p{
+margin-top:6px;
+color:#666;
+}
+
+/* CHAT */
+
+.chat-area{
+flex:1;
+padding:30px;
+overflow-y:auto;
+display:flex;
+flex-direction:column;
+gap:18px;
+background:#fafafa;
+}
+
+/* MESSAGE */
+
+.message{
+padding:16px 20px;
+border-radius:14px;
+max-width:70%;
+font-size:15px;
+line-height:1.7;
+animation:fadeIn 0.25s ease;
+white-space:pre-line;
+}
+
+/* USER */
+
+.user{
+align-self:flex-end;
+background:black;
+color:white;
+}
+
+/* AI */
+
+.ai{
+align-self:flex-start;
+background:white;
+border:1px solid #e4e4e4;
+box-shadow:0 5px 15px rgba(0,0,0,0.04);
+}
+
+/* INPUT */
+
+.input-area{
+display:flex;
+padding:16px;
+border-top:1px solid #eee;
+background:white;
+}
+
+input{
+flex:1;
+padding:14px;
+font-size:15px;
+border-radius:10px;
+border:1px solid #ccc;
+outline:none;
+transition:0.2s;
+}
+
+input:focus{
+border:1px solid black;
+}
+
+button{
+margin-left:10px;
+padding:14px 22px;
+background:black;
+color:white;
+border:none;
+border-radius:10px;
+font-size:15px;
+cursor:pointer;
+transition:0.2s;
+}
+
+button:hover{
+background:#333;
+}
+
+/* Animation */
+
+@keyframes fadeIn{
+from{
+opacity:0;
+transform:translateY(5px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
